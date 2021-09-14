@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  margin: 0;
+  margin-top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1{
+  /* border: solid grey; */
+  /* margin: 0 auto; */
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: sacramento, serif;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  margin-top: 10px;
+}
+.top{
+  padding: 50px;
+  background-color: #297F87;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position:absolute;
+}
+.top-cloud{
+  left: 150px;
+  position: relative;
+}
